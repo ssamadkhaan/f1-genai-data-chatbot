@@ -22,6 +22,7 @@ An AI-powered Formula 1 chatbot built using Python, Google Gemini API, Pandas, a
 
 ## Project Structure
 
+```text
 f1-genai-data-chatbot/
 │
 ├── data/
@@ -30,6 +31,7 @@ f1-genai-data-chatbot/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## Sample Questions
 
